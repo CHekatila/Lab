@@ -1,4 +1,4 @@
-# Basic-nodejs-mitso
+Node JS tour sales
 
 ## Prerequisites
 
