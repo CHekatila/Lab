@@ -1,4 +1,4 @@
-Node JS tour sales
+# NodeJS tour sales
 
 ## Prerequisites
 
